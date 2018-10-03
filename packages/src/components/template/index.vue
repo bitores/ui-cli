@@ -1,9 +1,12 @@
 <template>
-  <h1></h1>
+  <h1>{{name}}</h1>
 </template>
 <script>
 export default {
-  name: "demo"
+  name: "component name",
+  data(){
+    name: 'template name'
+  }
 };
 </script>
 <style lang="less">

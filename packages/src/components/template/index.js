@@ -1,4 +1,4 @@
 export {
   default
 }
-from 'demo.vue';
+from 'index.vue';
