@@ -1,0 +1,26 @@
+{
+  "name": "ui-cli",
+  "version": "1.0.0",
+  "description": "create ui components lib template",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "create-example": "vue init webpack examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitores/ui-cli.git"
+  },
+  "keywords": [
+    "ui",
+    "tools",
+    "cli",
+    "ui-cli"
+  ],
+  "author": "huangzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitores/ui-cli/issues"
+  },
+  "homepage": "https://github.com/bitores/ui-cli#readme"
+}
