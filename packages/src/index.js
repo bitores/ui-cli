@@ -1,4 +1,4 @@
-import demo from "./components/demo";
+import demo from "./components/template/index";
 
 export default {
   components: [

@@ -3,12 +3,13 @@
 </template>
 <script>
 export default {
-  name: "component name",
-  data(){
-    name: 'template name'
+  name: "demo",
+  data() {
+    return {
+      name: "template name"
+    };
   }
 };
 </script>
-<style lang="less">
-@import "../../style";
+<style>
 </style>

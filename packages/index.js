@@ -1,9 +1,10 @@
-import {
+import a from './src/index';
+let {
   components,
   directives,
   mixins,
   plugins
-} from './src/index';
+} = a;
 
 export default {
 
